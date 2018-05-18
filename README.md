@@ -22,8 +22,7 @@ python run.py --model lf --video ./video.mp4 --video-out ./result.mp4
 
 ## video
 
-
-<a href="https://www.youtube.com/watch?v=5qXW6ELh0hA" rel="Video"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="Video" width="100%"></a>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5qXW6ELh0hA/0.jpg)](https://www.youtube.com/watch?v=5qXW6ELh0hA)
 
 ## license
 The provided implementation is strictly for academic purposes only. Should you be interested in using our technology for any commercial use, please feel free to contact us.

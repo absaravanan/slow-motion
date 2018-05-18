@@ -21,7 +21,9 @@ python run.py --model lf --video ./video.mp4 --video-out ./result.mp4
 ```
 
 ## video
-<a href="http://web.cecs.pdx.edu/~fliu/project/sepconv/demo.mp4" rel="Video"><img src="http://web.cecs.pdx.edu/~fliu/project/sepconv/screen.jpg" alt="Video" width="100%"></a>
+
+
+<a href="https://www.youtube.com/watch?v=5qXW6ELh0hA" rel="Video"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="Video" width="100%"></a>
 
 ## license
 The provided implementation is strictly for academic purposes only. Should you be interested in using our technology for any commercial use, please feel free to contact us.
@@ -46,4 +48,4 @@ The provided implementation is strictly for academic purposes only. Should you b
 ```
 
 ## acknowledgment
-This work was supported by NSF IIS-1321119. The video above uses materials under a Creative Common license or with the owner's permission, as detailed at the end.
+This repository is influenced from https://github.com/dagf2101/pytorch-sepconv. This work was supported by NSF IIS-1321119. The video above uses materials under a Creative Common license or with the owner's permission, as detailed at the end.
